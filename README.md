@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Cristhian Bogado
 
-<!--
-**cristhian-d-bogado/cristhian-d-bogado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Web en formación
 
-Here are some ideas to get you started:
+Me apasiona crear páginas y aplicaciones web modernas, funcionales y adaptables a diferentes dispositivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente continúo aprendiendo desarrollo web y construyendo proyectos para mejorar mis habilidades y experiencia.
+
+---
+
+## 🚀 Mis proyectos
+
+### 🛒 Infinity Hub
+
+Tienda web desarrollada con HTML, CSS y JavaScript.
+
+Incluye funcionalidades como:
+
+- 🛒 Carrito de compras
+- ❤️ Favoritos
+- 🔐 Registro e inicio de sesión
+- 📦 Sistema de pedidos
+- 👤 Pedidos por usuario
+- 🛠️ Panel de administración
+- 📱 Diseño adaptable a celulares
+- 🌙 Modo oscuro
+
+### 🌐 Mi Portafolio
+
+Mi sitio web personal donde presento mis proyectos, habilidades y formas de contacto.
+
+---
+
+## 🛠️ Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📚 Actualmente aprendiendo
+
+Estoy mejorando mis conocimientos en:
+
+- Desarrollo Web
+- JavaScript
+- Diseño Responsive
+- Git y GitHub
+
+---
+
+## 🎯 Mi objetivo
+
+Seguir desarrollando proyectos reales, mejorar mis habilidades como desarrollador y crecer profesionalmente en el mundo del desarrollo web.
+
+---
+
+⭐ Gracias por visitar mi perfil.
